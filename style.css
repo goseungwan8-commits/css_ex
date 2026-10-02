@@ -1,0 +1,59 @@
+* {
+  font-family: 굴림체;
+}
+
+
+
+h1{
+       color:blue; 
+       background-color:yellow;
+       border:2px solid red;
+       padding:20px;
+       border-radius:50px;
+       box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+       }
+
+
+h1:hover{
+  background-color:green;
+}
+p{
+        font-weight:blod;
+        text-align:center;
+      }
+     
+      
+li{
+      text-decoration:underline;
+}
+
+h1#next {
+  background-color:skyblue;
+}
+
+h1#next:hover{
+  background-color:yellow;
+}
+
+#later{
+  color:gray;
+}
+
+li.inner{
+  text-decoration:name;
+  color:gray;
+}
+
+
+#later, .inner{
+  font-weight:blod;
+}
+
+h3 div {
+  color:red;
+}
+
+h3 > div{
+  color:blue;
+}
+
